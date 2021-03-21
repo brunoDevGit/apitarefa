@@ -1,0 +1,484 @@
+{
+  "products": [
+      {
+          "ean": "7897321120196",
+          "name": "MANTA ASFÁLTICA V-PRO TIPO 3 - A SBS POLIÉSTER 3MM",
+          "fullname": "Manta Asfáltica V-Pro Tipo 3 - A Sbs Poliéster 3Mm Rolo 10m²",
+          "price": "50.00",
+          "picture": "https://static.obrazul.com.br/media/produtos/7897321120196_0IZCwIp.png",
+          "store": {
+              "name": "Vedacit Demo",
+              "phone": "(31) 99999-9999",
+              "location": {
+                  "zip_code": "32015030",
+                  "address": "Rua Passos",
+                  "address_number": "1",
+                  "neighborhood": "Santa Helena",
+                  "complement": "",
+                  "city": "Contagem",
+                  "state": "MG"
+              }
+          }
+      },
+      {
+          "ean": "7897321161199",
+          "name": "ARGAMASSA ESTRUTURAL 250",
+          "fullname": "Argamassa Estrutural 250 Bombona 5Kg",
+          "price": "40.00",
+          "picture": "https://static.obrazul.com.br/media/produtos/7897321161199.jpg",
+          "store": {
+              "name": "Vedacit Demo",
+              "phone": "(31) 99999-9999",
+              "location": {
+                  "zip_code": "32015030",
+                  "address": "Rua Passos",
+                  "address_number": "1",
+                  "neighborhood": "Santa Helena",
+                  "complement": "",
+                  "city": "Contagem",
+                  "state": "MG"
+              }
+          }
+      },
+      {
+          "ean": "7897321111552",
+          "name": "DESMOL CD",
+          "fullname": "Desmol Cd Emulsão Balde 18Lt",
+          "price": "40.00",
+          "picture": "https://static.obrazul.com.br/media/produtos/7897321111552.png",
+          "store": {
+              "name": "Vedacit Demo",
+              "phone": "(31) 99999-9999",
+              "location": {
+                  "zip_code": "32015030",
+                  "address": "Rua Passos",
+                  "address_number": "1",
+                  "neighborhood": "Santa Helena",
+                  "complement": "",
+                  "city": "Contagem",
+                  "state": "MG"
+              }
+          }
+      },
+      {
+          "ean": "7893946465162",
+          "name": "JOGO DE PONTEIRAS COM 25 PEÇAS - VONDER",
+          "fullname": "Jogo de Ponteiras com 25 Peças - Vonder ",
+          "price": "105.00",
+          "picture": "https://static.obrazul.com.br/media/produtos/7893946465162.jpg",
+          "store": {
+              "name": "Deposito Casimiro",
+              "phone": "(11) 2436-9707",
+              "location": {
+                  "zip_code": "07175-000",
+                  "address": "Avenida Armando Bei",
+                  "address_number": "669",
+                  "neighborhood": "Vila Nova Bonsucesso",
+                  "complement": null,
+                  "city": "Guarulhos",
+                  "state": "SP"
+              }
+          }
+      },
+      {
+          "ean": "7898586130425",
+          "name": "DISCO DE CORTE 115(4,5)X1X22,2MM METAL/INOX ",
+          "fullname": "Disco de Corte 115(4,5)X1X22,2Mm Metal/Inox  ",
+          "price": "5.20",
+          "picture": "https://static.obrazul.com.br/media/produtos/ae17c28a27af10c53e978cb66afc48a7.jpg",
+          "store": {
+              "name": "Depósito Oliveira Natali",
+              "phone": "(31) 98527-5937",
+              "location": {
+                  "zip_code": "30642160",
+                  "address": "Rua Maria Amélia Mello",
+                  "address_number": "799",
+                  "neighborhood": "Santa Helena (Barreiro)",
+                  "complement": "loja",
+                  "city": "Belo Horizonte",
+                  "state": "MG"
+              }
+          }
+      },
+      {
+          "ean": "7898003897931",
+          "name": "ESPÁTULA DE AÇO INOX 10CM",
+          "fullname": "Espátula de Aço Inox 10Cm ",
+          "price": "17.88",
+          "picture": "https://static.obrazul.com.br/media/produtos/7898003897931_KBWgALw.png",
+          "store": {
+              "name": "Tintas Mol",
+              "phone": "(11) 95912-2081",
+              "location": {
+                  "zip_code": "04462-000",
+                  "address": "Estrada do Alvarenga",
+                  "address_number": "1000",
+                  "neighborhood": "Jardim da Pedreira",
+                  "complement": null,
+                  "city": "São Paulo",
+                  "state": "SP"
+              }
+          }
+      },
+      {
+          "ean": "7897321117325",
+          "name": "PRIMER ECO",
+          "fullname": "Primer Eco Aditivo Balde 18Lt",
+          "price": "122.00",
+          "picture": "https://static.obrazul.com.br/media/produtos/7897321117325_F9oVsHb.png",
+          "store": {
+              "name": "RCV VEDACAO E COMERCIO DE MATE",
+              "phone": "(19) 97405-3089",
+              "location": {
+                  "zip_code": "13331630",
+                  "address": "Avenida Engenheiro Fábio Roberto Barnabé",
+                  "address_number": "2502",
+                  "neighborhood": "Jardim Esplanada II",
+                  "complement": "Loja Casa da Vedação",
+                  "city": "Indaiatuba",
+                  "state": "SP"
+              }
+          }
+      },
+      {
+          "ean": "7897321112115",
+          "name": "FITA MULTIUSO",
+          "fullname": "Fita Multiuso Adesivo Rolo 1m²",
+          "price": "42.90",
+          "picture": "https://static.obrazul.com.br/media/produtos/7897321112115_Nuv8o9X.png",
+          "store": {
+              "name": "CENTRAL DA CONSTRUÇÃO",
+              "phone": "(83) 3441-4348",
+              "location": {
+                  "zip_code": "58400-261",
+                  "address": "Rua Presidente João Pessoa",
+                  "address_number": "614",
+                  "neighborhood": "Centro",
+                  "complement": null,
+                  "city": "Campina Grande",
+                  "state": "PB"
+              }
+          }
+      },
+      {
+          "ean": "7897321100303",
+          "name": "VEDACIT RAPIDISSIMO",
+          "fullname": "Vedacit Rapidissimo Aditivo Pote 1,4Kg",
+          "price": "35.10",
+          "picture": "https://static.obrazul.com.br/media/produtos/7897321100303_q9GaURh.png",
+          "store": {
+              "name": "Casas Jardim Tintas",
+              "phone": "(82) 32016-000_",
+              "location": {
+                  "zip_code": "57020340",
+                  "address": "Rua Barão de Penedo",
+                  "address_number": "153/165",
+                  "neighborhood": "Centro",
+                  "complement": "",
+                  "city": "Maceió",
+                  "state": "AL"
+              }
+          }
+      },
+      {
+          "ean": "7891444031223",
+          "name": "GUARNIÇÃO NATURAL 06 - REFERÊNCIA 446",
+          "fullname": "Guarnição Natural 06 - Referência 446 Poliestireno 240cm",
+          "price": "64.93",
+          "picture": "https://static.obrazul.com.br/media/produtos/7891444031223_oZluqfL.jpg",
+          "store": {
+              "name": "Bela Ferragens",
+              "phone": "(11) 03032-1033",
+              "location": {
+                  "zip_code": "05428-002",
+                  "address": "Rua Ferreira de Araújo",
+                  "address_number": "1073",
+                  "neighborhood": "Pinheiros",
+                  "complement": null,
+                  "city": "São Paulo",
+                  "state": "SP"
+              }
+          }
+      },
+      {
+          "ean": "7897321110432",
+          "name": "EXPANSOR",
+          "fullname": "Expansor Aditivo Pote 1Kg",
+          "price": "26.95",
+          "picture": "https://static.obrazul.com.br/media/produtos/7897321110432_sNbwh2r.png",
+          "store": {
+              "name": "SOBERANA MAT DE CONSTRUCÃO ",
+              "phone": "(51) 99732-9314",
+              "location": {
+                  "zip_code": "93410-035",
+                  "address": "Avenida Pedro Adams Filho",
+                  "address_number": "3575",
+                  "neighborhood": "Pátria Nova",
+                  "complement": null,
+                  "city": "Novo Hamburgo",
+                  "state": "RS"
+              }
+          }
+      },
+      {
+          "ean": "7891444019214",
+          "name": "RODAPÉ BRANCO REFERÊNCIA 493",
+          "fullname": "Rodapé Branco Referência 493 Poliestireno 240cm",
+          "price": "96.69",
+          "picture": "https://static.obrazul.com.br/media/produtos/7891444019214_OWW2O0v.jpg",
+          "store": {
+              "name": "RODAPÉ MANIA",
+              "phone": "(19) 99710-0206",
+              "location": {
+                  "zip_code": "13020-440",
+                  "address": "Rua Barão Geraldo de Resende",
+                  "address_number": "97",
+                  "neighborhood": "Botafogo",
+                  "complement": null,
+                  "city": "Campinas",
+                  "state": "SP"
+              }
+          }
+      },
+      {
+          "ean": "7891444932714",
+          "name": "RIPA PRATA REFERÊNCIA 466",
+          "fullname": "Ripa Prata Referência 466 Poliestireno 280cm",
+          "price": "66.11",
+          "picture": "https://static.obrazul.com.br/media/produtos/7891444932714_0CjHCWl.jpg",
+          "store": {
+              "name": "RODAPÉ MANIA",
+              "phone": "(19) 99710-0206",
+              "location": {
+                  "zip_code": "13020-440",
+                  "address": "Rua Barão Geraldo de Resende",
+                  "address_number": "97",
+                  "neighborhood": "Botafogo",
+                  "complement": null,
+                  "city": "Campinas",
+                  "state": "SP"
+              }
+          }
+      },
+      {
+          "ean": "7891019907182",
+          "name": "TINTA ACRÍLICA PREMIUM FOSCO COGUMELO JAPONÊS  - DECORA",
+          "fullname": "Tinta Acrílica Premium Fosco Cogumelo Japonês  - Decora Lata 18Lt",
+          "price": "472.44",
+          "picture": "https://static.obrazul.com.br/media/produtos/39215403_1SZ1.jpg",
+          "store": {
+              "name": "Emporium Tintas Mirandópolis",
+              "phone": "(18) 37012-517_",
+              "location": {
+                  "zip_code": "16800000",
+                  "address": "Rua Rafael Pereira",
+                  "address_number": "1318",
+                  "neighborhood": "Centro",
+                  "complement": "",
+                  "city": "Mirandópolis",
+                  "state": "SP"
+              }
+          }
+      },
+      {
+          "ean": "7891019102426",
+          "name": "TINTA FOSCA CAMURÇA - RENDE MUITO",
+          "fullname": "Tinta Fosca Camurça - Rende Muito Lata 18Lt",
+          "price": "347.64",
+          "picture": "https://static.obrazul.com.br/media/produtos/7891019102426.png",
+          "store": {
+              "name": "Emporium Tintas Mirandópolis",
+              "phone": "(18) 37012-517_",
+              "location": {
+                  "zip_code": "16800000",
+                  "address": "Rua Rafael Pereira",
+                  "address_number": "1318",
+                  "neighborhood": "Centro",
+                  "complement": "",
+                  "city": "Mirandópolis",
+                  "state": "SP"
+              }
+          }
+      },
+      {
+          "ean": "7897321117844",
+          "name": "VEDACIT",
+          "fullname": "Vedacit Aditivo Galão 3,6Lt",
+          "price": "24.77",
+          "picture": "https://static.obrazul.com.br/media/produtos/7897321117844.jpg",
+          "store": {
+              "name": "JOSE FERREIRA LEITE JUNIOR",
+              "phone": "(83) 99163-8085",
+              "location": {
+                  "zip_code": "58066-104",
+                  "address": "Rua Frei Damião",
+                  "address_number": "40",
+                  "neighborhood": "Muçumagro",
+                  "complement": null,
+                  "city": "João Pessoa",
+                  "state": "PB"
+              }
+          }
+      },
+      {
+          "ean": "7891444031209",
+          "name": "GUARNIÇÃO NATURAL 04 - REFERÊNCIA 446",
+          "fullname": "Guarnição Natural 04 - Referência 446 Poliestireno 240cm",
+          "price": "62.00",
+          "picture": "https://static.obrazul.com.br/media/produtos/7891444031209_l383kV1.jpg",
+          "store": {
+              "name": "DECORA DESIGN",
+              "phone": "(11) 95265-5761",
+              "location": {
+                  "zip_code": "13210-530",
+                  "address": "Rua Ari Elias de Almeida",
+                  "address_number": "119",
+                  "neighborhood": "Vila Josefina",
+                  "complement": null,
+                  "city": "Jundiaí",
+                  "state": "SP"
+              }
+          }
+      },
+      {
+          "ean": "7891444927908",
+          "name": "RODAPÉ CUMARU REFERÊNCIA 3454",
+          "fullname": "Rodapé Cumaru Referência 3454 Poliestireno 240cm",
+          "price": "103.06",
+          "picture": "https://static.obrazul.com.br/media/produtos/7891444927908_aAoFISO.jpg",
+          "store": {
+              "name": "DECORA DESIGN",
+              "phone": "(11) 95265-5761",
+              "location": {
+                  "zip_code": "13210-530",
+                  "address": "Rua Ari Elias de Almeida",
+                  "address_number": "119",
+                  "neighborhood": "Vila Josefina",
+                  "complement": null,
+                  "city": "Jundiaí",
+                  "state": "SP"
+              }
+          }
+      },
+      {
+          "ean": "7891444919996",
+          "name": "GUARNIÇÃO OXI OURO REFERÊNCIA 3547",
+          "fullname": "Guarnição Oxi Ouro Referência 3547 Poliestireno 240cm",
+          "price": "79.19",
+          "picture": "https://static.obrazul.com.br/media/produtos/7891444919996_bnLqZ6W.png",
+          "store": {
+              "name": "DECORAÇÃO SÃO DIMAS",
+              "phone": "(19) 3433-6839",
+              "location": {
+                  "zip_code": "13416-240",
+                  "address": "Avenida Independência",
+                  "address_number": "3166",
+                  "neighborhood": "Alemães",
+                  "complement": null,
+                  "city": "Piracicaba",
+                  "state": "SP"
+              }
+          }
+      },
+      {
+          "ean": "7891444927038",
+          "name": "SIX RUPESTRE",
+          "fullname": "Six Rupestre Poliestireno 150mm",
+          "price": "459.65",
+          "picture": "https://static.obrazul.com.br/media/produtos/7891444927038.jpg",
+          "store": {
+              "name": "RODAPÉ MANIA",
+              "phone": "(19) 99710-0206",
+              "location": {
+                  "zip_code": "13020-440",
+                  "address": "Rua Barão Geraldo de Resende",
+                  "address_number": "97",
+                  "neighborhood": "Botafogo",
+                  "complement": null,
+                  "city": "Campinas",
+                  "state": "SP"
+              }
+          }
+      },
+      {
+          "ean": "7891260166277",
+          "name": "TINTA ACRÍLICA MÁXIMA EFICIÊNCIA FOSCA BRANCO NEVE - GLASURIT",
+          "fullname": "Tinta Acrílica Máxima Eficiência Fosca Branco Neve - Glasurit Lata 18Lt",
+          "price": "215.00",
+          "picture": "https://static.obrazul.com.br/media/produtos/7891260166277.jpg",
+          "store": {
+              "name": "Ulitintas",
+              "phone": "(15) 3282-6144",
+              "location": {
+                  "zip_code": "18530-000",
+                  "address": "rua luiz fernandes diogo",
+                  "address_number": "246",
+                  "neighborhood": "centro",
+                  "complement": null,
+                  "city": "Tietê",
+                  "state": "SP"
+              }
+          }
+      },
+      {
+          "ean": "7897321117646",
+          "name": "PICHE EXTRA",
+          "fullname": "Piche Extra Aditivo Lata 900ml",
+          "price": "25.90",
+          "picture": "https://static.obrazul.com.br/media/produtos/7897321117646_A4AZLCY.png",
+          "store": {
+              "name": "Feira Tintas",
+              "phone": "(75) 3602-9175",
+              "location": {
+                  "zip_code": "44053-005",
+                  "address": "Avenida Eduardo Fróes da Mota",
+                  "address_number": "6760",
+                  "neighborhood": "Cidade Nova",
+                  "complement": null,
+                  "city": "Feira de Santana",
+                  "state": "BA"
+              }
+          }
+      },
+      {
+          "ean": "7891019908295",
+          "name": "TINTA ESMALTE ALUMINIO - CORALIT ",
+          "fullname": "Tinta Esmalte Aluminio - Coralit  Aluminio Galão 900ml",
+          "price": "28.78",
+          "picture": "https://static.obrazul.com.br/media/produtos/esmalte_sintetico_tradicional_brilhante_aluminio_900ml_85132775_0001_600x6001.jpg",
+          "store": {
+              "name": "OUTLET DAS TINTAS",
+              "phone": "(71) 99911-0417",
+              "location": {
+                  "zip_code": "42714-150",
+                  "address": "Rua Boca da Mata",
+                  "address_number": "564",
+                  "neighborhood": "Portão",
+                  "complement": null,
+                  "city": "Lauro de Freitas",
+                  "state": "BA"
+              }
+          }
+      },
+      {
+          "ean": "7891019168958",
+          "name": "TINTA ESMALTE SECAGEM RÁPIDA BRILHANTE AMARELO - CORALIT",
+          "fullname": "Tinta Esmalte Secagem Rápida Brilhante Amarelo - Coralit Galão 3,6Lt",
+          "price": "69.90",
+          "picture": "https://static.obrazul.com.br/media/produtos/213613943_1GG1.jpg",
+          "store": {
+              "name": "OUTLET DAS TINTAS",
+              "phone": "(71) 99911-0417",
+              "location": {
+                  "zip_code": "42714-150",
+                  "address": "Rua Boca da Mata",
+                  "address_number": "564",
+                  "neighborhood": "Portão",
+                  "complement": null,
+                  "city": "Lauro de Freitas",
+                  "state": "BA"
+              }
+          }
+      }
+  ]
+}
